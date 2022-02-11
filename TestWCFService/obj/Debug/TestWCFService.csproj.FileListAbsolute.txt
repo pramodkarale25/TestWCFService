@@ -1,0 +1,6 @@
+C:\My work\TestWCFService\TestWCFService\bin\TestWCFService.dll.config
+C:\My work\TestWCFService\TestWCFService\bin\TestWCFService.dll
+C:\My work\TestWCFService\TestWCFService\bin\TestWCFService.pdb
+C:\My work\TestWCFService\TestWCFService\obj\Debug\TestWCFService.csproj.CoreCompileInputs.cache
+C:\My work\TestWCFService\TestWCFService\obj\Debug\TestWCFService.dll
+C:\My work\TestWCFService\TestWCFService\obj\Debug\TestWCFService.pdb

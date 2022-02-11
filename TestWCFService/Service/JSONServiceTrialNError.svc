@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="TestWCFService.Service.JSONServiceTrialNError" CodeBehind="JSONServiceTrialNError.svc.cs" %>
